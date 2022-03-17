@@ -1,16 +1,54 @@
-### Hi there 👋
+<h1 align="center">Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suman Munde 👩‍💻</h1>
+<br>
 
-<!--
-**sumanmunde123/sumanmunde123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an graduate Student
+completed my B.Tech from MBES college of engineering, Ambajogai
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
+
+- ✍ You can find my resume here [Resume]
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 👯 I’m looking to collaborate on open source
+- 📫 Reach out to me: sumanmunde123@gmail.com
+- ⚡ Fun fact: I know how to play a piano
+
+<br>
+
+
+### 🚀 My Tech Stack:
+
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+   
+</p>
+
+
+<br>
+
+### 📊 My Github Stats:
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumanmunde123&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Suman munde's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanmunde123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumanmunde123&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br>
+
+
+### Lets connect through:
+
+
+<a href="https://www.linkedin.com/in/bhumika-tewary-6673681a4/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+
+
+
+
+[resume]: https://drive.google.com/drive/folders/1gSaG4oSlgFx9RUSNLUjx2b5vTtGf8fBA?usp=sharing
