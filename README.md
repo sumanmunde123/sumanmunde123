@@ -54,4 +54,4 @@ completed my B.Tech from MBES college of engineering, Ambajogai
 
 
 
-[resume]: https://drive.google.com/drive/folders/1gSaG4oSlgFx9RUSNLUjx2b5vTtGf8fBA?usp=sharing
+[resume]: https://drive.google.com/file/d/1t7qXzilCNWrxcmJsR7loPWv2qUAKP5X3/view?usp=sharing
