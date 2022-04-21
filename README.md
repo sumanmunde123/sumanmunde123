@@ -12,7 +12,7 @@ completed my B.Tech from MBES college of engineering, Ambajogai
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on open source
 - 📫 Reach out to me: sumanmunde123@gmail.com
-- ⚡ My portfolio=https://reverent-sammet-4dcb4f.netlify.app/
+- ⚡ My portfolio=https://sumanmunde.netlify.app
 
 <br>
 
