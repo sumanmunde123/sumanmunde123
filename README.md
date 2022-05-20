@@ -6,7 +6,7 @@ completed my B.Tech from MBES college of engineering, Ambajogai
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
+<img align="right"  alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
 - ✍ You can find my resume here [Resume]
 - 🌱 I’m currently learning Data Structures and Algorithms
@@ -19,7 +19,7 @@ completed my B.Tech from MBES college of engineering, Ambajogai
 
 ### 🚀 My Tech Stack:
 
-<p align="left">
+<p align="left"  >
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
 <a>
