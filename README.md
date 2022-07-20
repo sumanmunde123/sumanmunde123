@@ -49,7 +49,7 @@ completed my B.Tech from MBES college of engineering, Ambajogai
 ### Lets connect through:
 
 
-<a href="https://www.linkedin.com/in/bhumika-tewary-6673681a4/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/suman-munde-90b80b1b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRJdgYRmiQ8%2B%2BIaGz9jhFwQ%3D%3D"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 
 
